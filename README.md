@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kaihulme
+- 👋 Hi, my name is Kai.
 - 👀 I’m interested in Python and C++ development for machine learning and data science.
 - 🌱 Have a look at some of my projects to see what I've worked on.
 - 💞️ I’m currently looking for a new role, here's my [CV](https://drive.google.com/file/d/1u7hsYSYKCmcdjSXjYIfgiea5UQ2w20is/view?usp=sharing).
