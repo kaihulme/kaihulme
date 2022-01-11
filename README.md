@@ -6,7 +6,7 @@
 
 [![kaihulme's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaihulme)](https://github.com/kaihulme/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaihulme)](https://github.com/kaihulme/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaihulme&layout=compact)](https://github.com/kaihulme/github-readme-stats)
 
 <!---
 kaihulme/kaihulme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
