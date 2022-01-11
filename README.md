@@ -4,6 +4,8 @@
 - 💞️ I’m currently looking for a new role, here's my [CV](https://drive.google.com/file/d/1u7hsYSYKCmcdjSXjYIfgiea5UQ2w20is/view?usp=sharing).
 - 📫 You can reach with the contact info provided, or through [LinkedIn](https://www.linkedin.com/in/kaihulme/).
 
+[![kaihulme's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaihulme)](https://github.com/kaihulme/github-readme-stats)
+
 <!---
 kaihulme/kaihulme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
