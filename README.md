@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaihulme&show_icons=true&count_private_true&include_all_commits=true&theme=gruvbox&bg_color=161b22&text_color=c9d1d9&border_color=30363d)" height=175/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kaihulme&show_icons=true&count_private_true&theme=gruvbox&bg_color=161b22&text_color=c9d1d9&border_color=30363d)" height=175/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaihulme&layout=compact&hide=jupyter%20notebook,prolog,html,makefile,tex&theme=gruvbox&bg_color=161b22&text_color=c9d1d9&border_color=30363d)" height=175/>
 </p>
