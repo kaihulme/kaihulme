@@ -3,7 +3,7 @@
 
 - 📝 I’m love programming in Python and C++ and am interested in anything machine learning.
 - 🌱 Have a look at some of my projects to see what I've worked on.
-- 💞️ I'm currently looking for a new role, take a look at my [CV](https://drive.google.com/file/d/1u7hsYSYKCmcdjSXjYIfgiea5UQ2w20is/view?usp=sharing).
+- 💞️ I'm currently looking for a new role, take a look at my [CV](https://www.tinyurl.com/kai-hulme-cv).
 - 📫 Get in touch with my contact info provided, or connect with me on [LinkedIn](https://www.linkedin.com/in/kaihulme/).
 
 <!-- 
